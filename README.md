@@ -1,2 +1,2 @@
 # imdb-database-eda
-Exploratory Dataset Analysis of an IMDb Title Database provided on Kaggle
+Link to Kaggle Database: https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv
